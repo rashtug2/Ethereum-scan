@@ -37,5 +37,6 @@ Scan will start from: 0x00000000000000000000000000000000000000000000000000000000
 ```
 
 Note 1: output is formatted as follow: private key, public key, balance and account status (if balance is different of 0, i don't check account history).
+
 Note 2: private key could be imported as is in Metamask (see Import Account, and paste the private key)
 
