@@ -12,6 +12,14 @@ Balance is checked based on Etherscan.io database, see documentation:
 And about the Python APIs:
 - [Python - eth-account](https://eth-account.readthedocs.io/en/stable/eth_account.html#module-eth_account.account)
 
+Installed via:
+```bash
+# Make sure we are using python3
+sudo apt install python-is-python3
+# Install eth-account lib
+pip install eth-account
+```
+
 Output example from `ethereum_scan_multi3.py`:
 ```bash
 red@DESKTOP-QD37HPC:~/scripts$ python ethereum_scan_multi3.py
