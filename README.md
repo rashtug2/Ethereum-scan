@@ -35,3 +35,7 @@ Scan will start from: 0x00000000000000000000000000000000000000000000000000000000
 0x000000000000000000000000000000000000000000000000000000000021969e 0x64269350070EB763894B320f0b28031710078d1b 00000000.00000000 Inactive
 0x000000000000000000000000000000000000000000000000000000000021969f 0x9815795742a79941F93fE97bD2C4D7F791e8DE4A 00000000.00000000 Inactive
 ```
+
+Note 1: output is formatted as follow: private key, public key, balance and account status (if balance is different of 0, i don't check account history).
+Note 2: private key could be imported as is in Metamask (see Import Account, and paste the private key)
+
