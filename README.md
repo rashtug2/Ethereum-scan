@@ -1,5 +1,5 @@
 # Ethereum-scan
-Ethereum keys generator and balance check with the help of Etherscan.io
+Ethereum keys generator and balance check with the help of [Etherscan.io](https://etherscan.io/)
 
 Similar to:
 - [keys.lol](https://keys.lol/)
@@ -10,7 +10,7 @@ Balance is checked based on Etherscan.io database, see documentation:
 - [Etherscan.io - Accounts](https://docs.etherscan.io/api-endpoints/accounts#get-ether-balance-for-multiple-addresses-in-a-single-call)
 
 And about the Python APIs:
-- [Python - eth-account](https://eth-account.readthedocs.io/en/stable/eth_account.html#module-eth_account.account)i
+- [Python - eth-account](https://eth-account.readthedocs.io/en/stable/eth_account.html#module-eth_account.account)
 
 Output example from `ethereum_scan_multi3.py`:
 ```bash
